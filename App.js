@@ -1,9 +1,7 @@
-{/* <div id="parent">
-    <div id="child">
-        <h1> I'm a H1 tag</h1>
-        <h2> I'm a H2 tag</h1>
-    </div>
-</div> */}
+import React from "react";
+import  ReactDOM  from "react-dom/client"
+
+
 
 // To construct above html follow below code
 
